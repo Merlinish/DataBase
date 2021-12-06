@@ -17,6 +17,14 @@ student ID:2018141482193
 # SCU Database Systems
 # SQLite Project Source Code
 
+#result
+
+![buffer_pool_manager_test测试](https://github.com/Merlinish/DataBase/blob/weektwelve/buffer_pool_manager_test%E6%B5%8B%E8%AF%95.png)
+
+![extendible_hash_test测试](https://github.com/Merlinish/DataBase/blob/weektwelve/extendible_hash_test%E6%B5%8B%E8%AF%95.png)
+
+![lru_replacer_test测试](https://github.com/Merlinish/DataBase/blob/weektwelve/lru_replacer_test%E6%B5%8B%E8%AF%95.png)
+
 ### Build
 ```
 mkdir build
